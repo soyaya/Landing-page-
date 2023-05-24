@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/soyaya/static/css/main.ebb6e0d3.css",
+    "main.js": "/soyaya/static/js/main.e91a3c49.js",
+    "static/js/787.d3befce1.chunk.js": "/soyaya/static/js/787.d3befce1.chunk.js",
+    "static/media/pix.jpg": "/soyaya/static/media/pix.5c85b0f72705e0fcfd6a.jpg",
+    "static/media/Rub.jpg": "/soyaya/static/media/Rub.0a4893421f4eb80a395c.jpg",
+    "static/media/imge.jpg": "/soyaya/static/media/imge.bddb750f3959db98d0ff.jpg",
+    "static/media/rubImage.jpg": "/soyaya/static/media/rubImage.7bc0a9c39041f9169dc6.jpg",
+    "index.html": "/soyaya/index.html",
+    "main.ebb6e0d3.css.map": "/soyaya/static/css/main.ebb6e0d3.css.map",
+    "main.e91a3c49.js.map": "/soyaya/static/js/main.e91a3c49.js.map",
+    "787.d3befce1.chunk.js.map": "/soyaya/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb6e0d3.css",
+    "static/js/main.e91a3c49.js"
+  ]
+}
